@@ -1,2 +1,1 @@
-# cctv
-Creative Commons designs by Thiloka Viraj.
+# CCTV - Creative Commons designs by Thiloka Viraj.
